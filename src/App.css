@@ -45,7 +45,7 @@ h4 {
   box-shadow: var(--box-shadow);
   padding: 20px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   margin: 20px 0;
 }
 
